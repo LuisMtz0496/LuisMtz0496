@@ -3,11 +3,16 @@
 </div>
 <h1 align="center"><b>Hi , I'm Luis Martínez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I'm an electronic engineer specializing in embedded computer systems. I always enjoy staying updated on new technologies and recently completed my data scientist training course.
+I'm an electronic engineer specializing in embedded computer systems.
+- 🤝 I’m available for freelancing.
+  
+- 📝 Completed certification as a data scientist at TripleTen.
 
-I'd learned about the necesary skills to give and efficient development and help another companies with the data manegment, take of decitions and data predictions.
+- ✅ Skills to give and efficient development and help another companies with the data manegment, take of decitions and data predictions.
 
-Also I'm planing to keep incresing my skill and kwoledge in programming and data sience.
+- 🌱 always improving skills to data science, data analytics and programming.
+
+- 📫 How to reach me **luismtztecags@gmail.com**
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
