@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, my name is Luis 👋
 
 I'm an electronic engineer specializing in embedded computer systems. I always enjoy staying updated on new technologies and recently completed my data scientist training course.
 
