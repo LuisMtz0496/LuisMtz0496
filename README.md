@@ -5,3 +5,5 @@ I'm an electronic engineer specializing in embedded computer systems. I always e
 I'd learned about the necesary skills to give and efficient development and help another companies with the data manegment, take of decitions and data predictions.
 
 Also I'm planing to keep incresing my skill and kwoledge in programming and data sience.
+
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
