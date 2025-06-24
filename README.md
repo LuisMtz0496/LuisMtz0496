@@ -1,4 +1,4 @@
-## Hi there, my name is Luis 👋
+<h1 align="center"><b>Hi , I'm Luis Martínez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 I'm an electronic engineer specializing in embedded computer systems. I always enjoy staying updated on new technologies and recently completed my data scientist training course.
 
