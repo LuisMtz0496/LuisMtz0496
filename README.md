@@ -7,5 +7,5 @@ I'd learned about the necesary skills to give and efficient development and help
 Also I'm planing to keep incresing my skill and kwoledge in programming and data sience.
 
 ## Skills 👋
-	![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  
